@@ -90,15 +90,6 @@ Developer Tools UX
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZYKJShadow&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYKJShadow&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## Featured Repo
 
 如果你想快速了解我现在在做什么，最推荐先看这个项目：
