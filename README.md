@@ -1,7 +1,7 @@
-# Hi there, I'm ZYKJShadow
+# Hi there, I'm X
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZYKJShadow/Async/main/docs/assets/async-logo-desktop.svg" width="96" alt="Async IDE Logo" />
+  <img src="https://github.com/ZYKJShadow/Async/raw/master/docs/assets/async-logo-desktop.svg" width="96" alt="Async IDE Logo" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ### [Async IDE](https://github.com/ZYKJShadow/Async)
 
-一个开源的 AI IDE Shell，方向上对标 Cursor，但强调：
+一个开源的 AI IDE，方向上对标 Cursor，但强调：
 
 - 开源可见，而不是黑盒产品
 - BYOK 模型接入，而不是平台绑定
